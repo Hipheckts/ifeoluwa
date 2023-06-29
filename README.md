@@ -20,10 +20,10 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hipheckts&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Ifeoluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipheckt&count_private=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ifeoluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipheckts&count_private=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :fire: About Me :
-My name is Ifoluwa and here's a little about me.
+My name is Ifeoluwa and here's a little about me.
 
 - 👯 I’m looking to collaborate, build and ship products that works
 - 📫 How to reach me: hipheckt@gmail.com
